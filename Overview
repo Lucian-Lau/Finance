@@ -1,0 +1,1446 @@
+CFA
+Reason keywords
+Read context & instruction
+Paraphrase + generalize
+Return vs risk ← PF efficient ← diverse
+Liquid, cap efficient, Inf & purchase pw, size
+Tax = liability if sell; absorb R & ∂
+Buy / Receive / Long / Borrow / Duration +
+Appreciation / undervalued / Price expect to +
+Long only, +capacity, loss limit, intuitive, LT, ideology
+
+Ex. M&A exposure —> Sell M&A insurance
+Benefit from M&A = + M&A = long = short put
+Sell / Pay / Short / Lend / Hedge / Write / Fear
+Depreciation / overvalued / Price expect to -
+Short squeeze, hard, costly to borrow, position limit
+
+Ex. Life insurance —> Buy life insurance
+Fear - life = Benefit from - life = - life = put
+Diverse = right tail skewness = low active ∂
+Less diverse = left tail risk, extreme downside
+ST = short term, goal: - ∂ ← momentum, misprice
+LT = long term, goal: + r ← liquid premium+, ALT+
+R
+Return, performance - ∂
+∂, risk, variance
+= StD^2 = volatility^2
+å, alpha = value-added r, Security Select Skill, timing
+Cov, covariance
+= [X-E(X)][Y-E(Y)] / n
+ß, beta
+F, ∂ factor = volatility to market
+Cor, correlation
+= Cov / StD.X*StD.Y
+Inf
+inflation
+∆ (OPTION + J)
+Change = end/begin - 1
+Div
+dividend, income
+Liquidity
+Public & FU & ETF + VS OTC
+Trade cost
+MGMT, commission, b/a spread, trading, custody, admin, tech infra
+Size scale Pro
+Con
+Gov, Access: ALT, manager
+Capacity needs, neg market impact
+
+
+
+
+
+
+
+
+DER, derivative
+OPT = options, F&F = FU & FW = futures & forward, swap
+Initial outlay -, quick, liquid (- if OTC), leverage
+Position limit, credit ∂, counterparty ∂, rollover ∂
+Pooled: MF
+Trade at NAV, T+1 end
+Fundamental
+Theory foundation, equilibrium, MVO
+Pooled: ETF
+Trade Premium/Discount, T+0
+Top down
+Macro, allocation to industry / Factor
+HF
+Hedge Fund
+Bottom up
+Micro, position, holding
+Bond +
++ fixed receive, + Dur
+Technical
+Regression, History not repeat 
+Underlying +
++ f&f = buy basis = Spot - f&f < 0
+- Factor ∂, ß
+r-rf; SML; HML = low multiple; WML
+YEN / [USD] +
++ USD = + YEN/USD swap
+- Monte CS
+Scenarios, NO Normal, Sensitive
+
+
+
+
+BM, Benchmark
+Relative style index, active track ∂, IR
+
+
+
+
+
+
+Absolute, rf T-bill + %, total ∂, SR
+
+
+
+CME
+9 Challenges
+1 ECON data
+Time lag
+= the older data, the less reflective of now
+Revision, re-base
+= change in definition / calculation
+2 measure bias
+Survivorship, remove failures
+Appraisal, low frequency
+High frequency
+= +estimate r
+= -estimate ∂ (smooth) -Cor !!
+= precise Cor, ∂; less precise mean
+3 historical
+Regime change !!, NO stationary
+= too long range → environment change, alter ∂-r relation
+
+
+Normal distribution
+= skewness, fat tails
+4 ex post data → 
+ex ante biased proxy
+NO reflect Neg event
+Pos momentum → Pos estimate
+= -estimate ∂ +estimate r 
+Look ahead
+5 analyst method
+Data mining !! mis-generalize
+= repeatedly search → include irrelevant variables; Once → all the time; unreliable
+
+
+Time period
+= Period specific → All the time; ST → LT
+6 ignore condition
+ r-∂ relation changes in expansion, contraction/recession, recovery
+7 Cov Misinterpretation
+= Cor <> causation
+8 BF
+Anchoring
+Status quo
+Confirmation
+Overconfidence
+Prudence
+Availability
+= + initial impression
+= + recency → avoid change
+= + own opinion
+= - bad event
+= + history data → + ∂
+= + significant experience, memory
+9 model & input
+Model, parameter, input
+
+
+Pro/Con
+ECON metric
+Structural
+Quant
+Robust model
+Quickly generate output
+Quant analysis of exogenous variables
+Disciplined & consistent analysis
+Foundation in FINE theory
+Complex & time-consuming
+False sense of precision & signal
+Inputs (x) NO easy to forecast
+Relationships No static/stationary, regime change
+NO predict turning points
+Leading
+Indicator
+Diffusion
+Simple & intuitive to build, qualitative
+Readily available
+Easy to predict turning points
+Look ahead bias = NO public for that time
+Current data NO reliable as input
+Provide more than binary direction
+Checklist
+Limited complexity
+Flexible & broad = inc. / exc. any items
+Subjective, manual → limited depth, NO consistent
+Time-consuming!!
+
+
+
+Tool, ∂
+Factor / target
+Large number, less factor
+Less sampling error
+cross-sectional
+Biased, inconsistent
+Formal tools: 1) DCF; 2) Risk Premium, CAPM; 3) Statistical =
+Sample
+E, ∂, Cor
+Unbiased, consistent
+Small number
+Sampling error
+NO cross-sectional
+Shrinkage
+0.8*history+0.2*estimate
+Efficient 
+
+
+Time-varying series
+ARCH, mean reversion
+∂ clustering, shock
+å+ß<1
+
+
+
+
+
+
+
+
+R, ST, Taylor rule
+= neutral real r + Inf + 0.5×(GDP% E – trend) + 0.5×(Inf E – target)
+R, bond
+= YTM = rf + term + credit + liquidity premium
+∂. bond
+emerging market EM
+Bond: Legal
+Econ: competitive, account deficit
+Politics: per capita income
+Equity = Bond + Govern (insider, disclosure, ACCT, transparency)
+R, equity !!
+
+Grinold Kroner
+
+GDP = economy
+= D/Price  + %∆Price   ←  return $ =  income + price growth
+%∆Price =  %∆P/E + %∆Share in GDP (S) + %∆GDP (g of GDP)
+← Price = P/E * E/GDP * GDP
+
+%∆GDP = labor input (force + participation) + labor productivity (tech + capital)
+Singer Terhaar
+Sharpe R = rp / ∂
+r.i (risk premium) = Cor(market, i) * ∂.i * rp,market / ∂market →
+r.i (risk premium) = Cor(market, i) * ∂.i * SR.market;     Cor 100% segmented = 1
+R, real estate
+Profile=bond+equity
+= cap r + growth rate - %∆cap r → cap r = NOI / Price
+= r.bond + equity risk premium
+∂^2, de-appraisal = (1+λ)/(1-λ)*∂.appraise^2
+R, FX
+LT real rate the same → Nominal r, Inf +, FX -
+ST → r +, FX +
+FX Paradox, 2 of 3
+(1) control money policy → interest r, (2) fixed FX, (3) unrestricted $ flow
+Net export ← Current +, Capital -
+ST r +, GDP +, unrestricted money flow +, integration + (r -), policy ease +, Current account +; Capital account, ST ++, LT - ← Overshoot
+
+
+
+Business Cycle !!
+recovery
+early / late expand
+slowdown
+contraction
+Spending
++
+++ / +
+Peak → -
+- - bankruptcy
+Inf, CPI (LAGGING)
+-
++ (bottom) / +
++
+-, peak → deflation
+Sensitivity
+Cash = Real estate = - bond;        Stock = ∂
+Money → ST & Inf
+Fiscal → LT & real r
+loose = stimulative
+- loose /
++ tight, soft landing
+tight = restrictive
++ loose
++ deficit = - tax & + gov bond
+→ higher [Inf + real r]
+- deficit
+→ lower [Inf + real r = nominal r]
+ST r = Floating r
+= Cash, Money Market 
+Bottom - → +
+++
+Peak + → -
+- -
+Unattractive: 0 > int r = deflation;   Attractive if 0 bound: 0 = int r > deflation
+Real Estate ≈ Cash
+
+
+
+
+
+
+-, rental -, price -
+LT r = Bond ≈ Real int r
+(CONCURRENT)
+Bottom
++ or = / +
+Peak
+-, price +, attractive
+Yield Curve
+steep
++ flat
+flat → invert
++ steep
+Credit spread ≈- Inf
++
+
+
+
+
++
+Private borrowing
++
++
+-
+-
+Equity
+(LEADING)
++
++ / ∂+
+Trend growth
+-, Peak for quality stock
+Bottom
+∂+, price- (buy)
+Cyclical, risky(+LEADING)
++
+? / -
+
+
+
+
+
+
+
+Role AA !!
+
+
+r
+Cor equity, - Diverse
+- Inf
+∂
+Cyclical outperform in high growth
+D & FX
+
+
+
+
+
+
+
+
+
+
+
+
+Bond
+Gov, Inv-grade, non indexed, rf
+L
+L to Neg
+Deflation
+L
+N, outperform in recession
+Index: Inf linked, TIPS
+Floating coupon
+
+
+
+
+H
+
+
+N, outperform in good ECON
+Yield, Credit
+H
+
+
+
+
+H
+Y
+Equity
+Public
+H
+
+
+
+
+H 
+Y
+Private
+More concentrated
+H+
+Diff than Public Equity = idiosyncrasy & liquid premium
+
+
+H+
+Y, + tenure in recession
+ALT
+
+Less transparent
+
+Seek market inefficiency
+Estate, REIT/Private
+M
+H
+H+, -estimated
+Y
+Asset
+
+
+L
+H
+Y
+- Public, Commodity
+
+
+
+
+H++
+Y
+    - Gold !!
+
+
+LL
+H
+N
+- Private, Timberland
+H
+
+
+H
+
+
+- HF
+neutral, speciality
+H
+L
+
+
+L
+
+
+long/short, event
+H
+
+
+
+
+M to H
+
+
+
+
+AA
+ECON Ass = Financial
++ Extended (PV): Money in =  human capital (future earnings), pension in, inheritance
+Money out = Consumption, education, other support
+Strategy LT AA
+1. Asset
+MVO → Sharpe R = (R.PF - R.b) / ∂ → + Equity
+R.benchmark = risk-free rate, required return
+Utility = E(R.PF) - 0.005 * A * ∂^2    (0.5 if %)
+NO other, liability, goal, constraint
+NO absolute level of PF ∂
++ asset SR <> + PF SR
+Global PF
+1) baseline 2) - diversifiable ∂ → 3) - illusion of control, availability (home, familiarity)
+Pro
+Foundation
+Intuitive
+
+VS Con
+Sensitive to input → mean, variance, Cor
+
+
+Concentrated in a subset → NO diversify risk
+
+
+NO other → liability, goal, constraint
+Single-period framework → path dependent
+Only long positive weight → adjacent corner PF
+Reverse →  implied r →
+Black L → analyst view + diverse
+Resampled Monte → average frontiers
++ real world constraints → realistic
+∂ budgeting / ∂ factor based
++ illiquid assets
+Non normal → semi ∂, drawdown
+Monte Carlo → + trade cost, tax
+
+
+∂
+budgeting → (R.PF - Rf)/MCTR = ß*∂ = same
+parity → ACTR = ∂PF / n = W * MCTR
+2. Liability
+- Shortfall ∂ → + Fixed = Equity as potential
+Legal & quasi, uniform, forecast
+Surplus
+Two PF
+Integrated
+Asset - Liability
+Hedge / r-seeking (partial variants ← Neg ratio)
+Comprehensive ← liability ∂ factor
+= linear Cor of Ass-L (Cor Matrix)
+= conservative inv ← Pos funded ratio
+= complex, multiple periods
+3. Goal
+Max r, given prob & tenure → mental account
+NO legal, varied, NO law of large #
+∂ modeling
+Ass class → overlap ∂ factor
+Homogeneous
+Mutually exclusive
+Diverse
+Complete, preponderant
+Other factors, inclusive
+NO real estate + stock as 1
+NO public + private stock as 2
+Cor < 0.95
+Classes = majority investable
+Liquidity + transaction cost
+∂ factor
+Control ∂ exposure BUT NO directly investable → isolate ∂ factor ← long / short
+Inf, SML, HML, real interest r = Inf linked bond
+Adj, risk policy, rebalancing
+Tactic vs weight
+Tactic ST AA = ST deviation ∂→ + / - timing
+∂ source = monitor + trade cost
+Discretionary = quality; System = quant = - bias
+XX - weighted index 
+→ decision to adj weight XX
+Band !!
++ ≈ ∂ (Q), Tax = B/(1-T), Cor, momentum, illiquid
+- ≈ ∂ (Text)
+← % Range, corridor = disciplined
+VS calendar = lower overhead
+Price PUT
+Illiquid asset price = K - PUT → illiquid R
+K = liquid asset price (fair market) → liquid R
+liquid premium = illiquid R - liquid R
+
+DER
+C+K=P+S
+Bear
+Neutral / Specific Price
+Bull
+-∂, - Der
+-C = -S-P = Covered P
+-C-P = -Straddle
+-P = S-C = Covered C, upper limit
+≈, ±Der
+P-C = -FW = K-S
+Bear Spread
+
+Calendar Spread, time decay
+C-P = FW; Collar = S+P.L-C.H
+Bull Spread = C.L-C.H
++∂, +Der
+P = -S+C = Protective C
+C+P=Straddle.ATM, Strangle.OTM
+C = S+P = Protective P, lower limit
+Delta = slope = ∆Price.Der / ∆Price.S
+C, OTM, ATM, ITM = 0 → 1
+P,  0 → -1;       S, FW = 1
+volatility trade + ∂ factors: ∆, γ, T
+γ Gamma, Max @ ATM
+Theta = absolute value
+∂ volatility, Smile VS
+Skew: implied volatility P > C → 
+C-P (Risk Reversal)
+
+
+Exposure Target = Exposure PF + f
+Bond exposure = Mod Dur * MV; 
+BPV = Mod Dur * MV * 0.01% (1BP)
+Equity exposure = ß * MV
+Bond f →
+Bond Swap
+021 R9 Canaw
+BPV.T = BPV.P + n * BPV.f / Convert F
+BPV.f = Mod Dur * MV * 0.01%
+MV = contract size * market price
+Equity f → ß.T * MV.T = ß.P * MV.P 
++ n * ß.f * MV.f * multiplier
+Equity Swap is -liquid
+Volatility VIX index NO → FU, OPT
+Contango → - VIX FU, OPT ← VIX & Variance is reversed position ← VIX decreases MORE VS spot VIX
+Variance swap → Hedge tail risk; ex. Gain in five months on a purchase of $1,000,000 vega notional of a one-year variance swap on the S&P 500 at a strike of 15% (annual):
+Over the next five months, the S&P 500 experiences a realized volatility of 20%;
+At the end of the five-month period, fair strike of a new seven-month variance swap on S&P 500 will be 18%;    The annual interest rate is 1.50%
+Variance notional = 1,000,000/(2*15) = 33,333
+Variance diff = (5/12*20^2+7/12*18^2-15^2)=130.67
+PV=33,333*130.67/(1+1.5%*7/12) = 4,317,880
+Change % =  (FFE - 2.625%)/(2.875% - 2.625%) = 80% ←
+Implied Federal Funds Effective (FFE) Rate = (100 - price)% = 2.825% at 97.175
+Current target range midpoint = (2.75% + 2.5%)/2 = 2.625%
+Future changed target range midpoint (+25bp) = (3% + 2.75%)/2 = 2.875%
+FX, shown in D/F
+→ YEN/USD +, YEN -, YEN Spot - f = positive basis > 0, USD +, YEN/USD swap +
+1 + r.DomesticC = (1+r.FC) (1 + FX)
+∂DC^2 = ∂FC^2 + ∂FX^2 + 2Cor*∂FC*∂FX
+∂DC = (1+r.free)∂FX   where  r.FC = r.free
+% range deviation = 100% - hedge ratio
+Cor (FX, FC) - → ∂(DC)+, å+
+Carry trade: + r, with + ∂ & trading cost, when market stable
+No hedge: LT, revert to fair $ equilibrium, 0 sum, Neg Cor(FX, PF), multi FX = fundamental
+Hedge: ST, inefficient pricing, trade deficit / surplus, central bank policy, High Cor(FX, bond), risk aversion, liquid needs = technical (NO where should trade BUT will trade, when); historical (pattern, trend to repeat)
+Hedge method
+Single match, no rebalance, seek ∂ +
+Dynamic, rebalance
+Proxy, macro hedge
+Cost: Bid/Ask spread & Roll at maturity
+Upfront premium for OPT, NO for F&F
+Admin infrastructure, personnel & tech
+Opportunity forego potential favorable move
+Passive = 0∂, mimic benchmark
+Discretionary = 5%, neutral (no market view, non trending), less ∂
+Active = 10% + ∂, FX separate asset
+Overlay = active + outsource to FX expert
+FW Cash flow
+028 R10 Rosario
+1. Inception: + f
+2. At maturity, swap settle, FW roll
+Investor risk hedger = +OPT for PROTECT = - exposure, high ∂ → + ∂
+
+Speculative OPT trade = -OPT for PREMIUM = + exposure, high ∂ → - ∂
+Vehicles: FW, cheap, no cost, liquid
+FU, less liquid for FX ← limited pair
+NDF, Non-Deliverable FW = settled in FC ← restriction so no F&F
+OPT: put & put spread, collar, seagull
+
+Bond
+r + → P - → - bond !!
+Tier 2 = $ known & time NO, term insurance
+Diverse; Cor change
+Regular CF
+- Inf ∂: floating; Inf linked, TIPS
+Risk: rf; Spread & Credit (macro VS micro)
+Liquidity ≈+ credit, issue frequency, size, new (on the run), ST
+Tax, T% interest > cap gain (NO offset between)
+When constructing, MAX capital gain NO harvest loss!!
+When liquidating, harvest loss for Taxable; indifferent for NON Taxable
+rf → interest r + Y curve
+Duration: ∆r small
+Convexity: ∆r big
+Mac Dur → immunize Parallel shift → lock in CF yield = IRR of CF
+Convexity, dispersion -  → - structure model ∂, Twists & Non-Para shift  ← Key Rate Dur & PVD of CF
+Effective Dur & Conv → CF unpredictable, Der, mortgage
+Modified Dur → Portfolio
+> Empirical Dur, market regression
+r = rolling Y(∆t) →Coupon + ∆P%(∆t) = roll down r =P.end/P.beg-1
++ ∆P%(∆Y, ∆spread)  = - Dur*∆Y + 0.5*Convexity*∆Y^2
++ Default Loss = POD * LGD
++ ∆FX  = (1+R.fc)(1+R.fx) - 1
+Excess spread = spread + (- Spread Dur)*∆spread + Default Loss
+Excess r = r.managed - r.BM
+DTS (Dur Times Spread)
+= Eff Spread Dur * Spread (for high Y)
+= Spread Dur * ∆S (for inv grade)
+   Spread Dur * S * ∆S/S  = DTS * ∆S%
+∆P/P = ∆P% = Spread Dur * ∆S
+Butterfly Spread = 2M-H-L: Pos B S = - B
+1. Liability
+1.1 Duration match, Immunization → - shortfall
+ON balance sheet B/S
+CF inefficiency
+Complex & Rebalancing
+Cheap
+ASSUMING para shift
+PV A >= PV L
+Mac / Eff Dur A ≈ Dur L (< or >)
+Money D = D*PV;  BPV = Money D*0.01%
+Conv A least & >= Conv L
+PV A > L, OFF B/S
+1.3Contingent=1.1+Active
+
+Tender offer
+1.2 CF match, OFF B/S
+CF repay
+Simple, intuitive → pricey
+Rebalancing NO required
+1.4 Der Overlay !!   ∆Ass + ∆Der = ∆L →
+BPV.Ass + N * BPV.Der = BPV.L
+BPV.Der = BPV CTD / Convert Factor
+BPV.A*∆Y.A+BPV.Der*∆Y.Der=BPV. L*∆Y.L
+2. Total return Asset only 2.1 Active    VS Passive
+2.2 Pure full replication = costly
+≈ match, r, ∂, Dur ≈
+2.3 Enhanced stratified sampling = cheap 
+= + match, r, ∂ +; Dur ≈
+3. Credit Spread≈ -rf & Inf
+G-Spread = YTM - Gov r
+I-spread = YTM - swap r = intuitive
+ASW (ass swap) = coupon r - swap r
+Z-spread = DCF using spot rate = precise
+OAS = for OPT embedded = precise
+
+
+Equity
+Capital gain
+Div income
+Diversification
+- Inf ∂, price power
+Size / Cap VS Style
+Growth, g+ → high P/E
+Value, Div+ → low Book value, P/E
+Blend = Core
+Segment, Geo: developed, EM, frontier
+Econ: sector, industry
+Market served: downstream
+Production: upstream
+Concentration !!
+Effective # stock
+= 1/HHI =1/∑Wi^2
+Benchmark: Rule-based; Transparent; Investable ← buffering, packeting
+Weighting: Price, same #, Price bias
+Market-cap, same cap%, big cap bias
+Equal, same $, small cap bias, rebalance
+r ← Div & capture;
+Stock lending;
+Activist; - OPT
+Vehicles: (A) Pooled: MF, ETF; (B) Der overlay: Completion, Rebalance, FX
+∂ Tracking error ← Intra-day trade; Cost;
+Cash Drag → Equitize desired exposure
+ETF = + liquid , + error ← + outlay / NAV diff, interest rate = ref r + BP
+DER = - liquid (if OTC), - error ← - outlay, interest rate = ref r, quick implement, flexible reverse, liquid
+1. Passive
+Smart ß factor VS Index
+Index: Full replication; Blended
+Stratified sampling, quality, cost -
+Optimization, quant model past, ∂ -
+2. Active
+Con
+
+
+trait
+2.1 Fundamental, + outperform, FINE stats
+Value trap, growth trap
+
+
+Subjective, discretionary, å (SSS, exp.)
+Forecast future
+Select securities → company ∂
+Rebalance continuously
+2.2 Quant, Optimize, + alpha, adjust ß F
+Survivorship, look ahead, overfitting
+Exe (turnover constraints, lack short, cost)
+Quant overcrowding
+Objective, systematic, statistical model
+Use history data → past NO repeat
+More securities → PF ∂
+Rebalance regularly
+2.1 Bottom up
+P/E, P/B, multiple
+Value = low multiple
+Value: Relative, Contrarian, Deep Value, Income: +Div, High Quality: Buffett + Intrinsic
+Restructuring & distressed debt: bankruptcy
+Special: divesture, spin-off, M&A
+Growth = LT or ST misprice / sentiment
+Earning G, LT consistent VS ST momentum
+GARP = G at reasonable price = P/E:G
+2.3 Factor
+Reward: size, value, momentum, (value/growth trap if ignoring others)
+-: seg, sector
+2.2 Top down: Segment country geo, Econ sector rotation, thematic, ∂ Der
+2.4 Activist, HF; <10%; shorter, a few years → Okay FINE & bad MGMT
+Hedged PF: Fama 3, assume linear relation
+Mimicking: pure, dollar neutral, 1 factor 1 unit
+Timing: style rotation;      Tilting: long only
+NO “pure”: nonlinear relation NO captured
+middle quantile ignored, long concentrated, assume NO short limit
+2.5 Market Neutral, Pair Trading = 0ß &
+high active share 
+= 2å & low ∂.active
+r.active%  = IR * ∂.active = ß + (å + ε, luck)
+All, r%*$ = Breadth exp.= IR = IC * TC * √BR
+ß = factor +weight outperform
+å + ε = CME, SSS, ß Timing!!, ε idiosyncrasy
+$ = Position sizing, scale, how much $
+∂.active ← ß + share; contribution =∂ß1/∂PF
+∂ß1 = ∑ß1*ßiCov(1,i) = ∑W1*Wi*Cov(1,i)
+Active share=½|W.PF-W.BM| → + ∂.active
+Relative ∂ = +IR, tracking ∂ to BM = ∂.act
+Absolute ∂ = +SR, size, tracking ∂ = ∂
+Long/short 130/-30
+Net exposure = 100; Gross = 160
+diverse - market ∂ 
+Style: Holding, each position, 9 box →
+Data intensive, costly
+Precise, identify change quickly, individual
+Hard to identify significant Der position
+Return, regression history → 
+Minimal info, quick, cheap, widely used
+Hard to identify current style (history data)
+Hard to identify more aggressive position
+
+
+ALT
+HF 
+Conditional F = Equity, Credit, Currency, ∂
+Approach  → + undervalue
+Diverse ←- ß, ∂ → + r å
+- Inf ← Real estate, assets
+Dynamic; conditional linear regression r
+r = ∑exposure * risk factor + [unexplained]
+  = ∑ßn*Fn + [å + ε + ß?*F? (omitted factor)]
+ß = exposure changes in situations
+Equity
+market ß
+Diverse Long
+Long short = net long ex. 130/-30
+Dedicated short biased = net short
+Equity market neutral = only å, 0ß
+= market trend rise; lever, liquid
+= short squeeze; neg ß, low r
+← Non-trending market = mid r, liquid
+Event
+M&A = soft, NO public; hard, public
+Distressed = liquidation + reorg = equity like
+= short put / insurance on M&A, lever, liquid
+→senior > junior secured > unsecured > convert
+Relative
+
+Bond
+Fixed income
+Yield curve = + calendar spread
+Carry trade = + illiquid off run, - on run
+L/S credit = + high yield, - inv grade
+Dur matched → hedge term ∂
+= Low Cor, short put profile, High lever
+= trade less frequent, thinly
+Convertible bond = + bond - stock
+High bond issuance, mid ∂, okay liquid
+Short squeeze; Credit risk; Time decay of call; Left tail risk
+Opportunistic
+
+Der intensive →
+High positions, diverse, right trail & lever & liquid
+Global Macro = Contrarian, Qualitative
+Top down, directional or thematic
+Contrarian → No crowding effect
+Worst for mean-reverting low ∂ market
+Managed FU = Momentum, Quant
+Time series momentum = past repeat, 1 bond
+Cross sectional momentum = relative r in sections is predictable, 30 bonds, 15/-15
+Momentum → Crowding effect, trending impact
+Quant → systematic
+Heterogenous outcome
+High lever → + volatile
+Specialty
+
+Diverse r å
+Volatility trading = ET / OTC OPT; VIX FU & OPT; OTC variance / volatility swap
+Pos Conv
+Low initial outlay with high r
+Reinsurance
+Insurer: ∂ transfer, capital, solvency
+GOAL →  FV pay out < FV in → 
+- surrender & ongoing premium pay; die earlier
+Multi Manager
+!!
+
+Multi strategy + lever but depends
+Multi Strategy
+Efficient, fast, tactical
+Transparent
+Investor friendly fee → - netting risk
+
+Operational risk
+- diverse → left tail ∂
+- liquid ← gating
+FOF
+-, Agent principal dilemma ← NO reflect opinion
+-
+-
+
+
++ diverse → - extreme ∂, - key person ∂
++ liquid, accessible for smaller investors
+
+
+
+
+Inv Horizon
+private vs public
+>15 years, r focused, + private = illiquid premium
+<15 yrs, ∂ focused, + public, + DER, + 2nd market = - lock-up, - entry-exit process
+Due diligence!!
+Public = need less due diligence (2nd market, REIT, ETF)
+Private = need more ← less transparent
+Governance
+Exist, in place?
+Reporting frame
+Asset inv policy, objectives, decision making
+Transparency
+Easy to implement?
+
+
+MAIN Concern, but NO expect full transparency for ALT, especially private
+
+Reporting frequency
+Asset inv transparency / blind pool
+AA
+1. Monte Carlo Simulation (relax normal assumption)
+2. Risk factor based
+3. MVO (over concentrate), MVO with constraints &
+Conditional VaR = Address left long tail risk = neg skewness = alter decision
+Traditional
+Intuitive in describing the roles of asset classes
+Easy to explain (basic understanding)
+Identify mandates
+Certain constraints (overhead cost, in-house)
+
+overestimate diversification, -∂ (smooth)
+Group assets, commingle
+Risk based
+NO group assets = separate assets of actually similar risks
+Risk factor & framework & R pattern, for public NO private ALT
+NO stable = shifting = sensitive to look-back historical period
+Implementation hurdles
+Performance BM
+Custom index proxy = mix equity & fixed
+Peer group = NO good substitute = hard to identify peer
+Performance
+Stale pricing = appraisal method = smoothing
+Monitoring
+Key Person Risk
+Style drift
+Inv Risk
+Client/Asset turnover, profile
+
+MGMT change
+Inv universe, strategy change
+Complexity
+Gain / Loss, profile change, impacting performance
+
+
+Private
+Info, FIIICC
+Family, ID, inv background, inv preference, client’s goal & risk, career
+Goal, objective
+Priority = needs / retirement, inv, philanthropy, discretionary
+Quantify = amount, cash flow in & out
+Risk tolerance
++ Time, amount, flexibility
+- goal importance, spending needs
+Risk capacity, tolerance, perception
+Objective
+Capacity
+Subjective
+Tolerance = NO change, seek / averse
+Perception = change
+Skill
+Tech: PF construction*, language
+Soft: educate about finance
+
+
+Capital Sufficiency
+Looking ahead CME
+Deterministic, straight line growth
+Monte Carlo S, average r & ∂, tax
+75-90%, prob NO magnitude
+Retirement planning
+Mortality table: survival prob, spending until death (lifespan)
+Monte Carlo S = scenarios (tax), flexible
+Annuity pricing = goal based, living fees
+IPS
+Background & Objective
+IPS = meet objective & constraints
+Review IPS → Trade
+Parameters
+∂, time, asset out of scope, ESG, liquidity, constraints
+PF AA
+Strategic, Tactical
+PF MGMT
+Discretionary, rebalance, Tactical, implement
+Duties & responsibilities
+& review
+Appendix
+Modeled PF behavior = possible performance outcome
+Modeled PFstats = CME = r, ∂, cor
+
+
+P AA construction
+traditional
+goal-based
+Reporting, one way
+Review, two way
+Asset Allocation
+Performance: summary & detail, history
+Trade: deposit & withdraw, buy & sell
+Other: FX currency exposure, benchmark, CME, edu
+
+
+Segment million
+Net worth
+0.1, 1, 5, 50
+0-0.1, MF & ETF: robo-advisors
+0.1-1: mass affluent, digital
+1-5: high, customary tax & estate plan
+5-50: very, fully discretionary, + classes
+50-: ultra, multi-generational, complex
+Evaluation !!
+Now & future
+Goal achievement
+R & ∂ within IPS
+Succeed without adj
+Liquid, capital sufficiency
+
+
+Process consistency
+Guideline, ongoing, coordinate, fee
+
+
+P performance, R & ∂
+of each portion
+Within IPS
+Targeted R
+Risk & Tax factors
+Considerations
+Return vs risk ← PF efficient ← diverse
+Liquidity, capital efficient, purchasing pw
+Tax = liability if sell
+Wealth transfer
+!! 44 Enlow*
+Gift, now
+Recipient r & tax rate
+Gift tax rate
+Bequest, future
+Giver r & tax rate, before bequest
+Inheritance tax rate
+
+
+Goal of transfer !!
+owner, control over succession
+no owner = sell / separate = asset protection
+Business
+Equity monetization
+Tax free exchange
+Leveraged recapitalization
+Charitable remainder trust (Donor & beneficiary)
+Personal
+Loan secured w/o put (Int = tax expense)
+ESOP
+Real estate
+Mortgage financing
+Sale & lease back (no tax trigger)
+Donor advised fund (Donor)
+
+
+
+
+Net worth = Traditional
+Net WEALTH = ECON = Conditional
+FIN Asset
+Personal, House, Future VESTED
+
+
+Liability
+Loan, mortgage
+Future BEQUEST
+Future Consumption (PV)
+Human Capital
+- COR w FIN asset
+
+
+Future UNVESTED pension
+Future earnings = ∑ wage * (1+growth) ^ t / (1 + rf + risk adj) ^ t; 
+t ≈ death, work years
+risk adj ≈ earning volatility, Cov +, capital -, ins -
+
+
+Insurance / Annuity parties
+Premium Payer
+Owner (policy, contract)
+Trigger, happen to WHOM
+The insured / Annuitant
+Remainder Receiver
+Beneficiary (only for life insurance)
+Annual net payment = Premium - Div / (1+discount r)    
+Cost index = Annual net payment / # of policy
+Premium at begin, Div at end
+# of policy = face value / 1,000
+Life insurance, HLV vs human needs, !! 84 & 85
+Replace PV future earnings
+Provide estate / legacy liquidity
+Expenses from death (funeral)
+Needs analysis → insurance = needs - ass
+HLV, Human Life Value = PV human capital - existing life insurance
+Death
+Annuity
+Universal (perm)
+= Term (temp), whole life (perm)
+= - Longevity risk
+= Invuniverse
+
+
+Disability
+Regular specific job (highly skilled)
+Any job by education, experience
+Any job
+Comprehensive & costly
+
+General & cheap
+
+
+
+
+
+
+Health insurance
+Provider
+Medical fees
+Indemnity
+Any
+Reasonable customary
+Preferred org
+Many of large network (preferred)
+Low
+Health maint org
+Office visits (ailment)
+Min - 0
+Comprehensive major
+Comprehensive (major medical)
+Most
+
+
+
+
+
+
+Annuity
+Age -, payout -
+Certainty +, payout - = + OPT
+Variable: inv universe
+Advanced: starting late at > 85
+Risk, high impact severity
+Avoid: high frequency, impact
+Transfer: low frequency, high impact
+
+
+Reduce
+Retain
+
+
+Institution
+
+
+Gov Principal: Board, strategy
+In Agent: Committee, office, staff
+Ext = board, 3rd party, broker, consultant
+Size+, ALT, HF&private+
+Regulate, report, tax, ACCT
+BIG = 12 b; ALT 500 m
+small = 100 m; 10% budget
+Norway = Passive + In
+Endowment = Active + Out
+Canada = Active + In
+Passive = - ∂, å value, ALT, fee, complex (Inv, gov, exp.), +size (capacity, impact)
+Inhouse = + internal capabilities, transparent, - key person manager ∂, inv universe
+Liability Driven Inv: L-covered, NO hedge Inf / longevity ∂
+Pension, No Tax
+Payment
+Contribution
+Inv decision
+Shortfall risk
+Mortality / Long ∂
+DB, ER
+Contract
+ER + ee may
+ER
+ER
+ER (pooled mortality risk)
+DC, EE choice
+Based on contribution & Inv r
+EE + er, known rate
+EE + er menu
+EE
+EE
+DB: Report SURPLUS, ASSET → - Contribution → Benefit shareholder
+Discount rate = high-grade bond < R → vested - → return +
+A*DA = E*DE+D*DD*YD/YA; E^2*∂E^2 = A^2∂A^2+D^2∂D^2-2A*D*∂A*∂D*Cor
+IPS
+Mission
+To
+
+Objective
+LDI: DB (LT), Insurer (?), Bank (ST)
+= Manage A/L
+= ∂: position vs tolerance; Dur & Conv, liquidity (fund ratio)
+= LDI → NO r or BM
+SWF, Endowment & Foundation (LT+)
+= sustain spending, scholarship
+= (1) purchasing power of assets, - Inf; 
+   (2) sufficient r to sustain spending
+= real r with acceptable ∂
+Both = tight regulate; Ins general & separate accounts, life LT, p&c ST
+NO tax (5% money out for Foundation)
+
+
+Trading
+Trade
+å decay +, ∂ averse + = urgent, aggressive + = market impact +, execution ∂ -
+Price ∂ + → Price diff + → execution ∂ + proxied by PF ∂
+Error reporting: maintain a log; resolve with less adverse impact; NO report to clients
+Price
+Pre / Intra
+Known, ST & active, big order
+Decision = ST å, +- value
+Pre Close = quant
+Arrival = urgent, neg move, % dec
+LT, fundamental value, small order
+VMAP volume = + outlier
+TMAP time = during trading, - outlier
+Post / Target
+Closing = Index, min tracking ∂, Unknown until after closing, LT & passive
+ST, for trading NO evaluation
+Price target = limit order = ST å, +- value
+Exe Algorithm Algo
+Urgent → market impact +
+Open market = info leak
+Arrival = adverse move, small < 15%
+Liquid seeking / opportunistic = multi venue, large >20%
+Liquid aggregator / DARK POOL
+= ANON, - info leak / intention / transparency PRE trade → - certain to fulfill
+= ALL reported POST trade
+
+Smart Order Router = prob, condition
+Scheduled = large order into smaller = no urgent (-market impact), 0 neg move →
+POV, % of volume = liquid +, NO within interval; 
+VMAP = within interval (ex. 1 day), U curve (LARGE at open & close), big order
+TMAP = within interval BUT LT preferred, small order
+
+
+Large = High touch (HT) 
+Urgent = Principal; NO Urgent = Agent
+Illiquid = RFQ
+
+Illiquid market (Fixed & OTC) = HT
+Liquid market (ETF, ETDer) = algo low touch
+Equity, liquid
+HT Broker (& for illiquid)
+Algo (Electronic for small liquid)
+Bond, il
+HT Broker RFQ (& for small)
+HT Agency
+ET.DER, liquid
+FU market, Algo / Electronic; DMA for small
+OTC Der, il
+HT Broker, NO central clearing
+HT Agency, NO central clearing
+Spot FX, il
+HT Broker RFQ
+Algo, HT Agency; DMA for small
+
+
+1. Measure
+Implement
+Shortfall =
+(1) execution cost + 
+(2) opportunity cost + (3) fee
+
+$ cost
+
+
+
+(1) execution cost = delay (slippage) cost + trading cost (price at placing)
+= (buy - arrival + arrival - decision price) * buy unit
+Delay cost = (arrival - decision) * buy unit
+Arrival, Trading cost = (buy - arrival) * buy unit
+
+(2) opportunity cost = (closing price - decision price)  * NO buy unit
+(3) fee = unit fee * buy unit
+
+Decide, place by PM
+Arrive, receive, release by trader / agency
+Execute, buy
+Opportunity, close
+$/share cost
+
+BP cost
+Smaller or more negative = better
+$/share = cost / share
+BP = $*10000 / (unit*share)
+Market adjusted cost  = arrival cost BP - ß index cost BP
+
+Arrival cost BP = buy / arrival - 1
+Index cost BP = buy / arrival - 1
+Market impact
+Market adj cost = impact, pressure by the order
+Arrival cost = impact, rising market itself
+2.1 Attribution
+Break down
+Same Equity
+2.1.1 R.E = AA + SS + interaction
+Bottom up, micro, each position
+Top down, macro, allocation or factor
+Factor, factor
+2.1.2 Risk
+Relative, tracking ∂ to BM, common
+Absolute, total ∂, T-bill as rf + ?%
+2.2 BM
+SAMURAI
+Market, BM
+PF
+Style R = BM - market
+Active R = PF - BM
+3. Appraisal !!
+Performance
+Conclusion
+Sharpe = (Rp - Rf)/∂p
+Treynor = (Rp - Rf)/∂ systematic
+(Rp - Rf) = å + ß(R.market-Rf) + e
+*Appraisal = å + StD(e)
+Information = (R.PF-R.BM)/∂(PF-BM)
+Sortino = (R.PF-R.BM)/∂semi = penalize downside
+
+
+Universe
+Suitability, style, philosophy (active vs p)
+Efficient market → bad & good less diff
+I, explicit cost of commision to bad, + avoid
+II, opportunity, omission of good, less painful
+Quantitative
+- Attribution & appraisal: skill
+- Capture ratio
+- Drawdown
+Style Analysis = attribution & appraisal
+1. Return, RBSA, top down, imprecise
+Straightforward & less data
+NO window dressing
+
+BAD for illiquid stale, ex. venture capital
+
+2. Holding Based, HBSA, bottom up, precise
+Risk factors & exposure
+Window dressing ← snapshot of PF
+
+BAD for illiquid stale
+Quality, due diligence
+Inv = process & people, PF, philosophy
+!! key person risk, staff turnover,
+Operational = infrastructure (firm, vehicle, term, monitoring) & track record accuracy
+Vehicle & Term
+ - Liquid
+!! Closed end fund & ETF = + liquid
+SMA = direct owner, custom = + liquid
+Open end fund = daily liquidity = - liquid
+Pooled = indirect, decide by fund = - liquid
+- Fee
+
+
+
+
+
+!!
+Symmetric = NO Max / Min fee, fully exposed to up and downside = bankruptcy risk +
+AUM based = - fee in rising market, “sticky”
+Asymmetric = Max / Min cost → CALL
+Ex. Sharing fee = reward upside
+Performance based = + cost in rising market but also when underperforming, align client interest, smooth upside ∂
+Closet indexing, claim active but passive 
+= charge incentive fee for active MGMT
+Soft lock = + redemption fee
+Base fee = charged no matter
+Standard fee = fee at breakeven
+Sharing fee $ = sharing % * Active r
+Active r = r - Base fee
+Risk ∂ MGMT
+= Stop loss
+Frequency agree with signal
+
+
+!! Hard stop → frequent trade
+Liquid asset → less trading cost
+
+
+Ethics
+Code = CFA & candidate; Passed but NO enrolled <> candidate
+Firm is encouraged but NO member
+AMC = firm
+GIPS = firm/independent entity, NO composite
+Professional
+Law = legal, cultural, religious laws
+Independence = disclose gift (no approval → violate NO this but Employer); fee NO linked
+Misrepresentation = use “WILL” opinion; typo & no adj; plagiarism; no verify/disclose 3rd
+Misconduct = affect job; dishonest
+Market
+Material nonpublic information (MNI) = reliable; impact (key event, famous analyst)
+Manipulate = multi accounts to + volume; NO for Exchange, trading strategy, tax purpose
+Clients
+Loyal = Beneficiary (Plan & Trust), Mandate/IPS (MF); Soft dollar benefit client; 
+Fair trade = priority; NO equally
+Suit = can hedge if within style; 3rd is suit
+Performance = composites, each including similar style; disclose simulate data
+Confidential = FORMER + now + prospective; NO PII
+Employer
+Employer = Full & Part time at work, NO affect job OR abuse assets
+Compensation = from client / subject company = employer WRITTEN approval & disclose
+Supervisor = investigate & limit if violation, just warning NO enough
+Inv
+Reasonable = NO change ranking if pressured = irrelevant to COI
+Retention: Regulation >> CFA (7 yrs); Hard and/or E-copy
+Disclose: Related & POTENTIAL: B2B & indie relation (job offer even turned down); holding; director
+$$$ = (1) ST bonus package < 1 year; (2) Referral: %
+Trading & holding = trade after client; ANY INV personnel & $; 
+Terminate relation > Invest COI company if disclosed  >  restrict list (for broader universe)
+Conflict of interest (COI)
+NO sensitive company’s strategy meeting
+Priority: client > employer > self & relative (within clients NO violate this but fair trade)
+Trading or IPO
+Disclose: Extended absence of leadership
+Compensate
+Client = disclose NO Amount BUT relation & holding = meet all
+Employer (1) disclose amount $ & written approval = meet all
+                (2) disclose $ & NO approval = VIOLATE Employer; meet Independence, COI 
+Compliance, Designated & qualified; employee or officer; independent of INV process or CIO
+Backup; client, employee, related; Hard and/or E-copy; Repository (monitor, trade, analyze if big)
+Frequency
+MM =Return
+QQ = Performance & Inv State, 30 days after Q ends
+YY = Suitability review, sooner of PRE big change (beyond IPS)
+GIPS 
+047 & 048 !!
+R = end/beg - 1;  Total R = (1+R1) * (1+R2) - 1
+Cash flow, denominator, weighted using ratio
+Return, numerator, NO discounted → only actual; simulated only as appendix
+Composite
+Fee discretionary must YES,    # of PF vs composite
+1 PF    →  >=1 composites, include any position of style
+1 composite → NO Max / Min PF
+Free discretionary may ?
+Free non-discretionary must NO
+Fees either GROSS or NET (before or after) tax & fees; Average OR Expected fees; items of fees when asked; Trading fee exclude custody
+Reporting >= 5 years since claim, building up to >= 10 years; since inception if <= since;  53 !!
+Record Portability
+Job change = Primary & independent decision maker; track record; jobs break < 2 months
+Merger, A + B = A, A comply, B NO comply
+ → 1 year grace period
+
+
