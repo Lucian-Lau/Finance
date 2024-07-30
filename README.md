@@ -1,1 +1,1 @@
-CFA
+Finance
