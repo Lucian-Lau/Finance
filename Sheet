@@ -1,50 +1,33 @@
+DER
+
 Bond Fixed
-M2BBC
-structure assets to match liabilities? (A the L are defined?)
+M2.3.1
 
-2CB
-zero replication, cash flow yield
+M2.3.3
+The three-month contract has a par value of USD100,000 and a basis point value of USD102.30 per contract.
+Value | Modifired duration | BPV
+Assets USD217.3 milion 11.2 years USD243,376
+Liabilities USD206.8 milion 14.5 years USD299,860
+The most appropriate action given Puhuyesva's views on interest rates and the information ni Exhibit 1would be ot buy:
+A. 492 contracts.
+B. 614 contracts.
+C. 552 contracts.
 
-3ABC A
-BPV, MD
+M2.4.2.2
+We could also use a derivatives strategy, and I prefer derivatives strategies that protect the portfolio against an increase ni interest rates but wil not produce large losses fi rates decrease.
+A. Buy a payer swaption.
+B. Write a receiver swaption.
+C. Enter into a pay fixed swap.
 
-4
-C(BC)CBA
-total return swap vs creation units
-liabilties is unknow for DB plan (type 4)
+M2.8.2 Neeson comments, "The durations for almost half of the bonds ni the Wharton portfolio are clustered around 4 years, and the durations of the remainder around 12 years, while the durations of the Lawson portfolio bonds are clustered between 6years and 8years. nI general, a laddered bond portfolio approach would improve liquidity management for both, although the Lawson portfolio would experience an increase in cash flow reinvestment risk and the Wharton portfolio would experience a decrease in convexity."
+Is Neeson most likely correct in his assessment of the effects of a laddered bond portfolio approach on the Wharton and Lawson portfolios?
 
-5BAB
-measument error vs liquidity risk
+Yes
+No, because the Lawson portfolio is a bullet portfolio where the duration of its assets are matched to the duration of its liabilities "
+No, because the duration of the Wharton liabilities is greater than that of the Lawson liabilities owing to the younger age of its participants
 
-6DA()
-credit risk, # of bonds, weighting scheme
-valuation
-
-7AA
-No et Der for south american index?
-
-8CB
-
-M4
-CACCC
-1.2 relative value
-1.5 profitability is macro?
-
-2AAC
-credit risk (LGD, POD) vs spread risk (migration)
-
-3ACB
-G-spread
-I-spread
-Z-spread
-
-4CA
-liquidiity, use of T?
-credit default swaps, high cost?
-
-5CCB
-
-6AC
+M4.2
+M4.3.2
 
 AA
 M1
