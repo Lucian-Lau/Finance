@@ -1,5 +1,37 @@
 DER
 
+M1
+CBCAC
+BBAC(BA)C
+
+1.1.2 Delta, theta, time decay
+1.1.4 risk reversal, implied volatility
+1.1.6 implied volatility, time decay
+1.1.11 time decay
+
+M2
+CA
+2.1C --> 10,000/7.3/10*1.1=150; 8,000/3/50=53
+A 10,000*4.2/104.465/1.15=350
+A
+3 10*(1+1.75%) vs 10*106.85*(1-0.4%)/106.12
+B
+4C
+vix strategy, vega notional, gross notional
+A
+
+M3
+1()
+X USD --> X/1.3983 EUR --> X/1.3983*(1.3935-0.0019) USD --> X/1.3983*(1.3935-0.0019)/(1.421-0.0021)
+2C
+3BABAC
+4AB
+currency rolling, forward rate, forcast spot rate
+5BB
+Min-var hedge vs cross hedge
+6B
+
+
 Bond Fixed
 M2.3.1
 
