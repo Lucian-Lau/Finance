@@ -1,11 +1,10 @@
 GIPS
-M5
-A
-BB
-B
-B
-A
-
+M5.3
+The US Large-Cap Equity Composite includes all actual fee-paying portfolios. Each portfolio contains positions in large-cap stocks, which are selected by WCM after an extensive independent analysis. Non-discretionary portfolios are not included in any composite. WCM does not include in any composite its large-cap model portfolio, which is used during the investment selection process.
+Is WCM most likely compliant with GIPS standards required for composite construction as disclosed in Note 2?
+Yes.
+No, because of how the large-cap model portfolio is treated.
+No, because of how non-discretionary portfolios are treated.
 
 Trading
 M2
