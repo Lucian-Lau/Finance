@@ -1,51 +1,6 @@
 Trading
-essay questions
-trade strategy criterion
-algo
-dark pool
-
-M2
-//1AA
-2trade strategy criterion
-order, small, short term, more frequent, emergent; big, long term, less frequent and emergent
-security, equity, derivitives overlay, short selling; stock long
-market, opem market since listed, exchange-traded, including equity and other securities; open and dark pool since both, OTC
-risk aversion, risk appetite is low and thus more risk averse; less
-2.2
-exe: bid-ask spread / last trade is higher, price volatility is high
-market: ABC, order size / daily vol is high
-3B
-4.1C(arrival price algo)
-4.2TWAP, executed in one day, minimize market impact, TWAP > VWAP
-POV divide the order in several days, no
-VWAP
-4.3
-no, dark pool still has trade info reported after its completed
-yes, with price unknown, orders placed at certain price is less likely to be completed than those traded publicly
-5.1 C (0.3*6000+0.8*3000+1.1*1000+0.03*10000)/10000/27.1 = 206
-5.2 A
-delay 0.2*9000 = 1800
-exe 0.3*6000+0.8*3000-0.2*9000 = 2400
-oppo 1.1*1000 = 1100
-5.3 B -206-(-10)/600*10000 = -206 + 150 = -56
-5.4 101.21 / 10000 = 0.3/25.45-0.85*25/12750 
-6C
-
-M3
-CB (residual = transaction, window dressing) holding / return explain r diff
-CB
-B
-BAC
-AAABC (10.3/14.35)
-
-M4
-A
-B
-CBC
-bankcruptcy?
-A = 2.5% + (-4-2.5)*0.1% = 1.95%
-D = 2% + max (0, -9%-2%) = 2%
-G = 1% + 6%*20% = 2.2%
+M2.5.3-4
+M3.1.2
 
 
 ALT
