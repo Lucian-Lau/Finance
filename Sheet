@@ -74,7 +74,6 @@ Equity
 M2.1.1-3
 M2.2
 M2.6
-
 M3.4
 M4.1
 M4.2
@@ -83,7 +82,6 @@ M4.5, calculation
 
 
 DER
-
 M1.1
 2 Delta, Vega, Theta
 6
@@ -109,7 +107,6 @@ M3
 
 Bond Fixed
 M2.3.1
-
 M2.3.3
 The three-month contract has a par value of USD100,000 and a basis point value of USD102.30 per contract.
 Value | Modifired duration | BPV
@@ -128,13 +125,13 @@ C. Enter into a pay fixed swap.
 
 M2.8.2 Neeson comments, "The durations for almost half of the bonds ni the Wharton portfolio are clustered around 4 years, and the durations of the remainder around 12 years, while the durations of the Lawson portfolio bonds are clustered between 6years and 8years. nI general, a laddered bond portfolio approach would improve liquidity management for both, although the Lawson portfolio would experience an increase in cash flow reinvestment risk and the Wharton portfolio would experience a decrease in convexity."
 Is Neeson most likely correct in his assessment of the effects of a laddered bond portfolio approach on the Wharton and Lawson portfolios?
-
 Yes
 No, because the Lawson portfolio is a bullet portfolio where the duration of its assets are matched to the duration of its liabilities "
 No, because the duration of the Wharton liabilities is greater than that of the Lawson liabilities owing to the younger age of its participants
 
 M4.2
 M4.3.2
+
 
 AA
 M1
@@ -168,8 +165,8 @@ M2.3ba
 M2.5c()b()
 M3.2
 
-Institution
 
+Institution
 2
 A() --> not just the quote but condition
 
@@ -198,7 +195,6 @@ Individual
 CME
 1.2 Board member Kay Durden asks O'Reilly 
 1.3
-
 AAC
 
 Tommanson hesitates to decrease equities because it outperforms over the last quarter and believes recent data should be heavily weighted. This emphasis on recency is status quo bias. This could result in less relevancy of the correlation among variables and thus less accuracy of prediction.
