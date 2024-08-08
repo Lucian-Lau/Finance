@@ -1,0 +1,114 @@
+1:11
+
+Q1 AA 7
+CCAC
+2 TAA, trend value signals
+4 tax absords the return volatility, and thus correlation of returns
+
+1:18
+
+Q2 BD 13
+A coupon-paying bonds have several cash flows before maturity and thus a positive convexity, while zero-coupon bonds has only one payment at maturity and thus 0 convexity.
+B when interest rate deviation increases, yield curve tends to move unparallelly and thus have more twist changes. Duration can be of less use than Convexity when dealing with unparallel movement and twists in the yield curve to implement immunization or other strategies. This makes convexity more valuable.
+C Rolling yield = 3.5/100 + (103.7-102.3)/102.3 = 4.87%
+Total return = rolling yield + (0.35%+0.2%)*4.5 + 1/2*(0.35%+0.2%)^2*25 + 1% = 4.87% + 2.51% - 1% = 6.38%
+Rolling yield
+Total return
+
+1:31
+
+Q3 BD 7
+AABB
+1 Valuation
+2 building blocks
+4 EM health ratios
+
+1:38
+
+Q4 EQT 7
+CACA
+risk-oriented vs DVS-oriented
+
+1:45
+
+Q5 DER 27
+BACB
+0.0335*3.5/0.3
+(2.67-0.53)/25.21
+(2.67-0.53)*100+(2.67-0.31)*100
+
+2:12
+
+Q6 Institution 27
+1 no, annual spending = 4% * $1 m = $0.04 m < ???
+2 The endowment has a long term goal to sustain the university. This long term investment term gives them higher risk tolerance.
+ liquidity needs are low as the endowment have diverse and sufficient way to finance its spending, even including high rating bond issuance at AA+ rating.
+3 Endowment model has higher allocation to real estate and other alternative invesment to capture long term return while the current portfolio only has public equities and fixed income securities.
+Endowment model also use active management to capture alpha while Noeway model passively manages its portfolio.
+Endowment model has higher variance to generate higher return while Norway model has low tracking error.
+
+2:39
+
+Q7 BD 7
+A. Type 1 liability and Type 4.
+Type 1 has known cash flow amount and known timing of such cash flow, while both are unknown for Type 4.
+B. immunization strategy can be used to manage single liability, which is the one that Hannon has and wants to manage.
+C. X. The duration of X at 4.98 matches with the single five-year liability, which has a duration close to 5. It also has lower convexity.
+D. No. All else equal, lower convexity is generally better to signify lower sensitivity to unparallel change and twists in yield curve, which helps to manage fixed income.
+Liability types
+
+2:46
+
+Q8 Ethics 9
+AABC
+4
+
+2:55
+
+Q9 Private 16
+A. Green needs to keep his confortable lifestyle after he retires five years later.
+Green wants to buy a vacation place to live in three months.
+
+B. The vacation house has a relatively low priority compared to the children's education as to when to support the needs.
+As the vacation house has low importance, Green can postpone the timing of the purchase if necessary rather than an immediate investment within 3 months.
+Green wants to supports two daughters' tuition fees starting next year as the time is relatively soon and important to him. This education needs should be priotized.
+
+C. Green's goal and the charity's goal may differ and have different investment term, meaning the allocation strategy should be treated differently. But Green wants to invest in the same as some of the Charity's portfolio.
+
+D. Term is short for Green. As Green is 68, the investment term is too short for him to align with the alternative's long term goal.
+Liquidity needs are higher for Green, but those cannot be easily provided by the alternative investments.
+Risk tolerance is relatively low for Green while alternatives investments have relatively high volatility.
+
+3:11
+
+Q10 DER 16
+
+A. 83.36*(1+9.5%)/85.65-5.25%-100% = 1.32%
+B. 
+C. 1 is correct. The startegy is hedge CAD exposure in holding assets. They should use a 6-month forward points bid offer to 'sell' the CAD assets, which is 1.3342 + 155 * 0.01% = 1.3497
+2 is correct. The trend for CAD/USD is decreasing meaning CAD is appreciating. Hedging CAD exposure (short position) would bring loss for rolling the contracts, which means the roll yield would be negative
+
+Roll yied
+
+3:27
+
+Q11 Private 19
+A. 1 is incorrect. Income and capital gain are relatively long term consideration. It has less direct effect on everyday portfolio construction and strategy.
+2 is incorrect. If deemed suitable, assets aimed at short-term gains are also applicable to investors with any tax bracket.
+
+B. tax efficiency ratios
+Large cap 1-6/8=25%
+International developed 1-8/12 = 33%
+Taxable bond 1-2.5/4=37.5%
+
+Taxable bond is the least tax efficient
+
+C. i equity monetization also typically use short sales or derivative contracts, which are prohibited in the jurisdiction.
+ii charitable remainder trust will make the investor have to lose control over the original assets.
+iii exchange fund is the most appropriate.
+
+D. Market value after 8 years: 2,000,000*(1+8%)^8 = 3,701,860
+Tax on sale = (3,701,860 - 100,000)*25% = 900,465
+Final value = 3,701,860 - 900,465 = 2,801,395
+
+3:46
