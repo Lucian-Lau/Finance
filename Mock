@@ -1,13 +1,27 @@
 1:11
 
-Q1 AA 7
+6' Q1 AA 7
 CCAC
 2 TAA, trend value signals
 4 tax absords the return volatility, and thus correlation of returns
+ACAB
+
+4
+Kim also recommends using mean–variance optimization (MVO) technique to further 
+evaluate potential asset allocations for Schwartz’s taxable account. He suggests 
+running separate optimization scenarios for both pre-tax basis and after-tax. 
+In Kim’s optimization scenarios, which combination of the following model inputs 
+would most likely need adjustment? 
+A. 
+B. 
+C. 
+Expected returns and correlation of returns 
+Expected returns and standard deviations of returns 
+Standard deviations of returns and correlation of returns 
 
 1:18
 
-Q2 BD 13
+5' Q2 BD 13
 A coupon-paying bonds have several cash flows before maturity and thus a positive convexity, while zero-coupon bonds has only one payment at maturity and thus 0 convexity.
 B when interest rate deviation increases, yield curve tends to move unparallelly and thus have more twist changes. Duration can be of less use than Convexity when dealing with unparallel movement and twists in the yield curve to implement immunization or other strategies. This makes convexity more valuable.
 C Rolling yield = 3.5/100 + (103.7-102.3)/102.3 = 4.87%
@@ -17,21 +31,23 @@ Total return
 
 1:31
 
-Q3 BD 7
+12' Q3 BD 7
 AABB
 1 Valuation
 2 building blocks
-4 EM health ratios
+4 EM health ratios 50%, 4%, 4%
 
 1:38
 
-Q4 EQT 7
+6' Q4 EQT 7
 CACA
 risk-oriented vs DVS-oriented
+CAAC
+
 
 1:45
 
-Q5 DER 27
+12' Q5 DER 27
 BACB
 0.0335*3.5/0.3
 (2.67-0.53)/25.21
@@ -39,7 +55,7 @@ BACB
 
 2:12
 
-Q6 Institution 27
+2' Q6 Institution 27
 1 no, annual spending = 4% * $1 m = $0.04 m < ???
 2 The endowment has a long term goal to sustain the university. This long term investment term gives them higher risk tolerance.
  liquidity needs are low as the endowment have diverse and sufficient way to finance its spending, even including high rating bond issuance at AA+ rating.
@@ -47,9 +63,22 @@ Q6 Institution 27
 Endowment model also use active management to capture alpha while Noeway model passively manages its portfolio.
 Endowment model has higher variance to generate higher return while Norway model has low tracking error.
 
+The spending policy is sufficient.  
+The investable base after payment of the start up’s initial capital is: 
+Investable base = $24,000,000 – $1,000,000 = $23,000,000. 
+AMLAIC’s total funding requirement of $1,800,000 is reduced by external funds, with 
+expected value at the middle of the confidence interval: 
+Expected (external funds) = ($1,400,000 + $400,000) / 2 = $900,000. 
+Relative to the investable base, the outlay requirement is: 
+Required outlay = ($1,800,000 – $900,000) / $23,000,000 = 3.91%.
+
+ favoring increased risk tolerance: 
+• ESUE has significant capacity for fundraising in relation to spending policy. 
+• ESUE supports a small percentage of the university’s operating budget. 
+
 2:39
 
-Q7 BD 7
+5' Q7 BD 7
 A. Type 1 liability and Type 4.
 Type 1 has known cash flow amount and known timing of such cash flow, while both are unknown for Type 4.
 B. immunization strategy can be used to manage single liability, which is the one that Hannon has and wants to manage.
@@ -57,15 +86,23 @@ C. X. The duration of X at 4.98 matches with the single five-year liability, whi
 D. No. All else equal, lower convexity is generally better to signify lower sensitivity to unparallel change and twists in yield curve, which helps to manage fixed income.
 Liability types
 
+Parallel movement - linear relation between rates and prices
+Convexity higher+, appreaciate more and depriaciates less
+
 2:46
 
-Q8 Ethics 9
+9' Q8 Ethics 9
 AABC
 4
 
+Highlighting a short-term period (quarterly) of outperformance that 
+occurred two years ago when the stock has more recently underperformed the 
+benchmark for a longer horizon is an example of presenting out-of-date 
+information.
+
 2:55
 
-Q9 Private 16
+7' Q9 Private 16
 A. Green needs to keep his confortable lifestyle after he retires five years later.
 Green wants to buy a vacation place to live in three months.
 
@@ -81,7 +118,7 @@ Risk tolerance is relatively low for Green while alternatives investments have r
 
 3:11
 
-Q10 DER 16
+5' Q10 DER 16
 
 A. 83.36*(1+9.5%)/85.65-5.25%-100% = 1.32%
 B. 
@@ -90,9 +127,18 @@ C. 1 is correct. The startegy is hedge CAD exposure in holding assets. They shou
 
 Roll yied
 
+One month ago, the value of SIGF assets in CAD are 500 million. 
+Today, the value of SIGF assets in CAD is 520 million. 
+The foreign investment in terms of Canadian dollars increased by CAD 20 million; hence 
+Schwinn must increase the size of the hedge by selling another CAD 20 million in 
+addition to the CAD 500 million initially sold a month ago.  
+To sell another CAD 20 million forward today, Schwinn will have to buy USD, in the base 
+currency CAD/USD quote. Therefore, the offer side of the market must be used. 
+1.3352 + (191/10,000) = 1.3543
+
 3:27
 
-Q11 Private 19
+7' Q11 Private 19
 A. 1 is incorrect. Income and capital gain are relatively long term consideration. It has less direct effect on everyday portfolio construction and strategy.
 2 is incorrect. If deemed suitable, assets aimed at short-term gains are also applicable to investors with any tax bracket.
 
