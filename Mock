@@ -1,3 +1,99 @@
+9:57
+
+Q1 TRD - Performance
+CACB
+(11/4-2)/(0.5*5)=0.3
+
+10:09
+
+Q2 AA
+BCBC
+1200+225+800-125+930-900-300
+9%-0.005*4*121 = -2.33
+8%-0.005*4*100 = -1.92
+7%-0.005*4*25 = -0.43
+
+10:15
+
+Q3 ALT
+A When market is volatile, there is hardness to form a profitable view on the market trend, whether it be bull or bear. With non-trending and ambiguous market, a market neutral strategy would be beneficial to capture alpha instead of market trend.
+B 200,000 * 0.89 / 1.05 = 169,524
+C i. dedicated short and short-biased have high volatility and thus high risk. Using high leverage would increase the exposure to extreme left tail risk. Thus, modest to low leverage should be implemented.
+ii. distressed securities strategy also has high exposure to left tail risk and extreme downside risk. High leverage would not be approriate because it only exacerbates the exposure.
+iii. volatility trading bears high volatility already.
+
+leverage, trading strategy
+
+10:30
+10:42
+
+Q4 BD
+CACA
+
+10:44
+
+Q5 EQT
+A Small cap index. It has less number of constituents so replication can be more easily implemented.
+Small cap has smaller size, and full replication can result in less market impact.
+B Large cap, bottom quartile. It has the lowerst daily trading volume thus less liquid. And it is more likely to migrate, bearing higher trading costs.
+Small cap, top quartile. It is more possible for this quartile to migrate.
+C buffering strategy. buffering can give candidate constituents a buffer or a room to be selected, thus reducing the migration.
+
+11:06
+
+Q6 EQT
+A Delay cost. Time decay of alpha decreases the return when placing orders are delayed after decisions are made.
+Opportunity cost. The stock universe is thinly traded but Winters makes large order. Some orders may not be fullfilled in this situation and not all desired position can be acheived resulting in opportunity cost.
+Trade cost from unfavorable market move. Since Winters can trade in momentum, the market move is unfavorable thus resulting in high bid-ask spread and cost.
+
+B Stock lending. She can lend her stock to borrowers that need short selling. Risk is counterparty risk. The borrower could default.
+?
+
+11:16
+
+Q7 ECON
+CBCB
+Last expansion vs slowdown
+
+11:21
+
+Q8 TRD
+A 1 is more appropriate. Execution risk can be reduced by trading evenly throughout a longer horizon. While in 2, when market is trending favorable, managers should act more aggressively to capture the return; otherwise it'll decay over time.
+B 8000*(1773.25-1750.50) = 182000
+C no delay cost
+execution cost = 45000 * (22.13-22.12) + 10000 * (22.27-22.12) + 25000* (22.35-22.12) + 5000 * (22.43-22.12) + 5000 * (22.48-22.12) + (45000+10000+25000+5000*2)*0.05=15550
+execution cost in BP = 15550 / 90000 / 22.12 * 10000 = 78.11
+opporunity cost = 10000 * (22.56-22.12) = 4400
+opportunity cost in BP = 10000/100000 * (22.56-22.12)/22.12 * 10000 = 198.91
+total cost in BP = 78.11
+
+delay cost, units in BP ?
+
+11:42
+
+Q9 TRD - Manager
+CCCC
+
+11:50
+
+Q10 Ethics
+BABB
+
+11:56
+
+Q11 Ethics - GIPS
+A i All discretionary, fee-paying funds should be included in the results. All discretionary, non-fee-paying funds may be included. The accounts included are limited to be above minimum investments is a deficiency.
+ii Investment advisory fees should also be dedcuted along with other trading fees.
+iii Net performance figures should be calculated by deducting the actual management fee rather than the highest.
+
+B A single fund cannot be in compliance with the GIPS. The level should be at company level.
+The verification report should be attached or readily available whenever. Upon request is a deficiency.
+
+Years, fees, 
+
+12:09
+
+
 1:11
 
 6' Q1 AA 7
