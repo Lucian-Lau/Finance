@@ -1,13 +1,15 @@
+68+69=137/236=51.89%
+
 9:57
 
-Q1 TRD - Performance
-CACB
+9' Q1 TRD - Performance 12
+C(A)ACB
 (11/4-2)/(0.5*5)=0.3
 
 10:09
 
-Q2 AA
-BCBC
+6' Q2 AA 6 
+BCB(C)C(A)
 1200+225+800-125+930-900-300
 9%-0.005*4*121 = -2.33
 8%-0.005*4*100 = -1.92
@@ -15,8 +17,9 @@ BCBC
 
 10:15
 
-Q3 ALT
-A When market is volatile, there is hardness to form a profitable view on the market trend, whether it be bull or bear. With non-trending and ambiguous market, a market neutral strategy would be beneficial to capture alpha instead of market trend.
+8' Q3 ALT 15
+A When market is volatile, there is hardness to form a profitable view on the market trend, whether it be bull or bear. 
+With non-trending and ambiguous market, a market neutral strategy would be beneficial to capture alpha instead of market trend.
 B 200,000 * 0.89 / 1.05 = 169,524
 C i. dedicated short and short-biased have high volatility and thus high risk. Using high leverage would increase the exposure to extreme left tail risk. Thus, modest to low leverage should be implemented.
 ii. distressed securities strategy also has high exposure to left tail risk and extreme downside risk. High leverage would not be approriate because it only exacerbates the exposure.
@@ -27,12 +30,12 @@ leverage, trading strategy
 10:30
 10:42
 
-Q4 BD
-CACA
+6' Q4 BD 2
+CA(C)CA(B)
 
 10:44
 
-Q5 EQT
+5' Q5 EQT 22
 A Small cap index. It has less number of constituents so replication can be more easily implemented.
 Small cap has smaller size, and full replication can result in less market impact.
 B Large cap, bottom quartile. It has the lowerst daily trading volume thus less liquid. And it is more likely to migrate, bearing higher trading costs.
@@ -41,7 +44,7 @@ C buffering strategy. buffering can give candidate constituents a buffer or a ro
 
 11:06
 
-Q6 EQT
+5' Q6 EQT 10
 A Delay cost. Time decay of alpha decreases the return when placing orders are delayed after decisions are made.
 Opportunity cost. The stock universe is thinly traded but Winters makes large order. Some orders may not be fullfilled in this situation and not all desired position can be acheived resulting in opportunity cost.
 Trade cost from unfavorable market move. Since Winters can trade in momentum, the market move is unfavorable thus resulting in high bid-ask spread and cost.
@@ -51,13 +54,13 @@ B Stock lending. She can lend her stock to borrowers that need short selling. Ri
 
 11:16
 
-Q7 ECON
-CBCB
+6' Q7 ECON 5
+CB(A)CB(A)
 Last expansion vs slowdown
 
 11:21
 
-Q8 TRD
+4' Q8 TRD 21
 A 1 is more appropriate. Execution risk can be reduced by trading evenly throughout a longer horizon. While in 2, when market is trending favorable, managers should act more aggressively to capture the return; otherwise it'll decay over time.
 B 8000*(1773.25-1750.50) = 182000
 C no delay cost
@@ -69,19 +72,21 @@ total cost in BP = 78.11
 
 delay cost, units in BP ?
 
-11:42
+11:42 8
 
-Q9 TRD - Manager
-CCCC
+6' Q9 TRD - Manager
+CCC(B)C(B)
+Observing drawdowns is an excellent way to evaluate a manager’s   
+operational due diligence procedures. 
 
 11:50
 
-Q10 Ethics
-BABB
+9' Q10 Ethics 6
+BABB(A)
 
 11:56
 
-Q11 Ethics - GIPS
+4' Q11 Ethics - GIPS 13
 A i All discretionary, fee-paying funds should be included in the results. All discretionary, non-fee-paying funds may be included. The accounts included are limited to be above minimum investments is a deficiency.
 ii Investment advisory fees should also be dedcuted along with other trading fees.
 iii Net performance figures should be calculated by deducting the actual management fee rather than the highest.
