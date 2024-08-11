@@ -5,48 +5,27 @@ C(A)ACB
 6' Q2 AA 6 
 BCB(C)C(A)
 10:15
-
 8' Q3 ALT 15
-A When market is volatile, there is hardness to form a profitable view on the market trend, whether it be bull or bear. 
-With non-trending and ambiguous market, a market neutral strategy would be beneficial to capture alpha instead of market trend.
-B 200,000 * 0.89 / 1.05 = 169,524
-C i. dedicated short and short-biased have high volatility and thus high risk. Using high leverage would increase the exposure to extreme left tail risk. Thus, modest to low leverage should be implemented.
-ii. distressed securities strategy also has high exposure to left tail risk and extreme downside risk. High leverage would not be approriate because it only exacerbates the exposure.
-iii. volatility trading bears high volatility already.
-
-leverage, trading strategy
-
 10:30
 10:42
-
 6' Q4 BD 2
 CA(C)CA(B)
-
 10:44
-
 5' Q5 EQT 22
 A Small cap index. It has less number of constituents so replication can be more easily implemented.
 Small cap has smaller size, and full replication can result in less market impact.
 B Large cap, bottom quartile. It has the lowerst daily trading volume thus less liquid. And it is more likely to migrate, bearing higher trading costs.
 Small cap, top quartile. It is more possible for this quartile to migrate.
 C buffering strategy. buffering can give candidate constituents a buffer or a room to be selected, thus reducing the migration.
-
 11:06
-
 5' Q6 EQT 10
 A Delay cost. Time decay of alpha decreases the return when placing orders are delayed after decisions are made.
 Opportunity cost. The stock universe is thinly traded but Winters makes large order. Some orders may not be fullfilled in this situation and not all desired position can be acheived resulting in opportunity cost.
 Trade cost from unfavorable market move. Since Winters can trade in momentum, the market move is unfavorable thus resulting in high bid-ask spread and cost.
-
 B Stock lending. She can lend her stock to borrowers that need short selling. Risk is counterparty risk. The borrower could default.
-?
-
 11:16
-
 6' Q7 ECON 5
 CB(A)CB(A)
-Last expansion vs slowdown
-
 11:21
 
 4' Q8 TRD 21
