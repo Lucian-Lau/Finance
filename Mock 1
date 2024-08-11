@@ -27,7 +27,6 @@ B Stock lending. She can lend her stock to borrowers that need short selling. Ri
 6' Q7 ECON 5
 CB(A)CB(A)
 11:21
-
 4' Q8 TRD 21
 A 1 is more appropriate. Execution risk can be reduced by trading evenly throughout a longer horizon. While in 2, when market is trending favorable, managers should act more aggressively to capture the return; otherwise it'll decay over time.
 B 8000*(1773.25-1750.50) = 182000
@@ -37,38 +36,26 @@ execution cost in BP = 15550 / 90000 / 22.12 * 10000 = 78.11
 opporunity cost = 10000 * (22.56-22.12) = 4400
 opportunity cost in BP = 10000/100000 * (22.56-22.12)/22.12 * 10000 = 198.91
 total cost in BP = 78.11
-
 delay cost, units in BP ?
-
 11:42 8
-
 6' Q9 TRD - Manager
 CCC(B)C(B)
 Observing drawdowns is an excellent way to evaluate a manager’s   
 operational due diligence procedures. 
-
 11:50
-
 9' Q10 Ethics 6
 BABB(A)
-
 11:56
-
 4' Q11 Ethics - GIPS 13
 A i All discretionary, fee-paying funds should be included in the results. All discretionary, non-fee-paying funds may be included. The accounts included are limited to be above minimum investments is a deficiency.
 ii Investment advisory fees should also be dedcuted along with other trading fees.
 iii Net performance figures should be calculated by deducting the actual management fee rather than the highest.
-
 B A single fund cannot be in compliance with the GIPS. The level should be at company level.
 The verification report should be attached or readily available whenever. Upon request is a deficiency.
-
 Years, fees, 
-
 12:09
 
-
 1:11
-
 6' Q1 AA 7
 CCAC
 2 TAA, trend value signals
