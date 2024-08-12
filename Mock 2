@@ -1,1 +1,65 @@
+	918	1	B	C	C	A
+	929	2	A	C?	B	A
+	938	3	1 is least likely correct. Generating alpha is also a consideration when executing orders, for example to reduce time decay of alpha. Lowest possible trading not necessarily gets the desired alpha. Trade-offs between the two are more reasonable regarding trading models and implementation.	"0.22*32.8+0.14*32.92+0.35*33.08+0.125*33.24-(0.22+0.14+0.35+0.125)*32.75=0.21155
+0.21155/(0.22+0.14+0.35+0.125)/32.7*10000=77.48"	"Delay cost = 70000*(83.56-83.12)
+Arrival cost = 70000*83.12-10000*83.08-40000*82.93-15000*82.67-5000*82.23
+Execution cost = delay cost + arrival cost = 50000
+Opportunity cost = 30000*(83.56-81.74)=54600
+Commission = 70000*0.01=700
+Implementation shortfall in BP = 105300/100000/83.56*10000=126.02"	
+	955	4	"(12+L)*8%-L*3%=12*11%
+5L=36
+L=7.2 million"	"Buy call on the bond. Buy call at the contract size of the desired exposure.
+Long bond futures. Long bond futures at the size of the desired exposure with the same maturity."	"Bond ownership. Under repo, bonds serve as collateral, meaning the money borrower still holds the bonds. Under securities lending, the underlying securities are transferred to the bonds borrowers from the bonds lender.
+Principal. Under repo, the money borrower receives the total principal collaterized by the bond, while under securities lending, the bonds lender receives the return without principal settlement."	interest = 125/(1-2%)*5/360 = 1.7715 million
+1018	978	5	A	B	A	B
+1033	993	6	"1 Sadosky (S) should firstly define the investment universe to begin with.
+2 S should use historical data to do a regression of the return and the factor.
+3 S should back test X and examine its efficacy and then collects the data."	Average return  doesn't consider risk-adjusted return. S could use mean-variance optimization in the anlaysis.	MVO could result in concentrated portfolio in certain stocks.	"Stock C and E is the most effective because of highest correlation, while B and D is the least effective because of lowest correlation.
+Market becomes more volatile and mean reversion fails to happen. This could result in no desired return profile."
+1048	1008	7	"Variance notional = 22000000/21^2=
+Variance difference = (6/12*27^2+6/12*23^2-21^2)=
+Value = notional * diff / (1+4.75%*6/12)="	Recommendatio 2. The volatility would remain range bound thus short selling an out of the money option could generate a return of option premium at expiration. While long straddle is expecting the volatility would be more volatile, either increases or decreases, which doesn't agree with the remaing range bound expectation.	?minimum-variance hedge 	
+1056	1016	8	"Statement 1 is incorrect. Economic balance sheets also consider present value of future comsumption and other future cash flow in and out.
+Statement 2 is correct. Human capital is the future earnings dicounted to the present. It is directly linked with financial assets as it can be accumulated in financial assets."	Colin's income is more stock-like and more volatile as the job is a commidities trader at a startup, while Robyn's income is more bond-like and less volatile as the job is in high demand. When constructing portfolio, they could allocate a more balanced one between equity and fixed income to even out the volatility of the couple.	At a younger age, their human capital is much higher and thus need a higher life insurance policy. As 70 year old, their human capital decreases significantly and has limited needs of life insurance.	"Immediate fixed annuties are better. Inlation rate. Interest rates have peaked signaling inflation rate will decrease in the near future. Fixed annuities have more value when inlation rate is decreasing compared to variable annuity.
+Cost. Fixed annuity costs less than variable annuity in general."
+1116	1036	9	C	C	B	B
+1122	1042	10	"1. Tax. Tax is more homogenous for institutions while tax for individuals varies significantly.
+2. Size. Institutions have way larger scale than individuals do. And individuals' size also varies within them.
+3. Goal. Insitutions tend to be either return seeking or liability covered, while individuals tend to be either return seeking or goal based."	"equity capital=34000-31000=3000
+equity money duration = 24000*12.5+4200*2+5200*6.2-17100*16.5-8700*8-5200*6.2=-43350
+equity duration = -43350/3000=-14.45"	0.000151864	0.012323311
+1130	1050	11	B	C	C	B
+
+
+
+
+
+1	4 has the lowest P/E ratio at 9=36/4 among companies with positive growth. 	1 has highest dividend yield	3 P/E ratio is 30/10=3, is 1/5 of sector average P/E at 15. This is the deepest value compared to other companies.	4. 3 has negative growth and should not be considered. Among 1, 2, 4, 4 has the lowest PEG ratio at 36/4/10=0.9.	
+2	C	C	B	C	
+3	B	A	A	C	
+4	32.57648739	"money duration of assets = 77700000*4.2
+money duration of liability = 82400000*5.1"	"Buy since the duration gap is negative. 
+duration gap in BP = (77700000*4.2-82400000*5.1)*10^4
+# of futures = (77700000*4.2-82400000*5.1)*10^4/88.12
+"		
+5	A	C	A	C	
+6	A	B	B	C	
+7	"1. The investor should be educated that the questionaire should be completed every year and last time he completed was many years ago. The suitability should be assessed at least annually.
+2. The questionarie should give educational and other resources to investors."	"1. Purchasing larger home rather than rental if he is promoted. This is a likely additional spending needs.
+2. He now has 3 kids, resulting in more spending needs.
+3. His salary should increase over the years, thus generating more income to offset his spending needs."	"Portfolio as a whole outperforms as the actual return is higher than expected in general.
+While 3 equity asset classes outperform and has higher actual return, the 2 bond asset classes underperform than expected."	"1. The wealth value has increased to $3.5 million and his profile has changed from mass affluent to high-net-worth client.
+2. He has more customization needs, such as estate planning and tax scenarios to consider, which requires additional private wealth planning with specialized service."	
+8	Use Monte Carlo Simulation MVO to incorporate non-normal distribution trait in the alternative investments. Standard MVO assumes normal distribution and is more applicable to liquid assets but alternative assets is illiquid and less normally distributed, for which Monte Carlo Simulation can accomodate non-normal distribution.	35.7532	"Fee structure. Fee structure should be designed to incentivize managers to perform better and aligned with trust performance.
+Performance evaluation. Performance evalution should be in place to ensure managers' performance are evaluated properly so that manager selection can be implemented."	Yes, he is correct. IRR of cash flow should be more appropriate because private investments can have dispersed called capital in flow. This could adjust the dispersion of large money flow rather than average out the capital effects.	return BM, PE, ALT
+9	A	B	A	C	
+10	B	C Risk factors are associated with expected return premiums.	B goal vs belief	A	
+11	"1. comparable performace among fund companies.
+2. establish a well-designed industry standard for members to comply with so that investors can have confidence in the performance reporting.
+3. increase the credility in the industryby incorporating thrid party auditing."	"Fees, performance figures can be presented gross of fees, withholding taxsed, but net of trading fees.
+List of composites, a complete list and description of all composites doesn't need to included and can be avaible upon request.
+Composite dispersion presentation, dispersion can be not shown for composite less than 5 portfolios."	"1. When there is no large purchase and redemption affecting the composite. 
+2. When portfolio has hard lock and thus has no cash flow between evaluation periods.
+Money weighted vs time weighted."		
 
