@@ -1,13 +1,11 @@
+Volume-weighted average price (VWAP) is used to achieve fair and reasonable prices 
+over the trading period throughout the day when there is market noise. Market noise 
+represents intraday volatility with price distortions throughout the day.  
+Time-weighted average price (TWAP) is used to achieve fair and reasonable prices 
+over the trading period throughout the day when there is no market noise. Time
+weighted average price (TWAP) is used when managers wish to eliminate the volatility 
+and exclude potential trade price outliers. 
 
-1	B(A)	C(B)	C	A(C)
-	2	A(C)	C?(A)	B	A(C)
-17	3	1 is least likely correct. Generating alpha is also a consideration when executing orders, for example to reduce time decay of alpha. Lowest possible trading not necessarily gets the desired alpha. Trade-offs between the two are more reasonable regarding trading models and implementation.	"0.22*32.8+0.14*32.92+0.35*33.08+0.125*33.24-(0.22+0.14+0.35+0.125)*32.75=0.21155
-0.21155/(0.22+0.14+0.35+0.125)/32.7*10000=77.48"	"Delay cost = 70000*(83.56-83.12)
-Arrival cost = 70000*83.12-10000*83.08-40000*82.93-15000*82.67-5000*82.23
-Execution cost = delay cost + arrival cost = 50000
-Opportunity cost = 30000*(83.56-81.74)=54600
-Commission = 70000*0.01=700
-Implementation shortfall in BP = 105300/100000/83.56*10000=126.02"	
 23	4	"(12+L)*8%-L*3%=12*11%
 5L=36
 L=7.2 million"	"Buy call on the bond. Buy call at the contract size of the desired exposure.
