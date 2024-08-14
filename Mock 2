@@ -6,9 +6,8 @@ over the trading period throughout the day when there is no market noise. Time
 weighted average price (TWAP) is used when managers wish to eliminate the volatility 
 and exclude potential trade price outliers. 
 
-23	4	"(12+L)*8%-L*3%=12*11%
-5L=36
-L=7.2 million"	"Buy call on the bond. Buy call at the contract size of the desired exposure.
+23	4	
+(2) Buy call on the bond. Buy call at the contract size of the desired exposure.
 Long bond futures. Long bond futures at the size of the desired exposure with the same maturity."	"Bond ownership. Under repo, bonds serve as collateral, meaning the money borrower still holds the bonds. Under securities lending, the underlying securities are transferred to the bonds borrowers from the bonds lender.
 Principal. Under repo, the money borrower receives the total principal collaterized by the bond, while under securities lending, the bonds lender receives the return without principal settlement."	interest = 125/(1-2%)*5/360 = 1.7715 million
 15	5	A	B	A	B
