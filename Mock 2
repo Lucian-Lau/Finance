@@ -1,23 +1,16 @@
-Volume-weighted average price (VWAP) is used to achieve fair and reasonable prices 
-over the trading period throughout the day when there is market noise. Market noise 
-represents intraday volatility with price distortions throughout the day.  
-Time-weighted average price (TWAP) is used to achieve fair and reasonable prices 
-over the trading period throughout the day when there is no market noise. Time
-weighted average price (TWAP) is used when managers wish to eliminate the volatility 
-and exclude potential trade price outliers. 
-
 23	4	
 (2) Buy call on the bond. Buy call at the contract size of the desired exposure.
 Long bond futures. Long bond futures at the size of the desired exposure with the same maturity."	"Bond ownership. Under repo, bonds serve as collateral, meaning the money borrower still holds the bonds. Under securities lending, the underlying securities are transferred to the bonds borrowers from the bonds lender.
 Principal. Under repo, the money borrower receives the total principal collaterized by the bond, while under securities lending, the bonds lender receives the return without principal settlement."	interest = 125/(1-2%)*5/360 = 1.7715 million
+
 15	5	A	B	A	B
+
 15	6	"1 Sadosky (S) should firstly define the investment universe to begin with.
 2 S should use historical data to do a regression of the return and the factor.
 3 S should back test X and examine its efficacy and then collects the data."	Average return  doesn't consider risk-adjusted return. S could use mean-variance optimization in the anlaysis.	MVO could result in concentrated portfolio in certain stocks.	"Stock C and E is the most effective because of highest correlation, while B and D is the least effective because of lowest correlation.
 Market becomes more volatile and mean reversion fails to happen. This could result in no desired return profile."
-20	7	"Variance notional = 22000000/21^2=
-Variance difference = (6/12*27^2+6/12*23^2-21^2)=
-Value = notional * diff / (1+4.75%*6/12)="	Recommendatio 2. The volatility would remain range bound thus short selling an out of the money option could generate a return of option premium at expiration. While long straddle is expecting the volatility would be more volatile, either increases or decreases, which doesn't agree with the remaing range bound expectation.	?minimum-variance hedge 	
+20	7
+Recommendation 2. The volatility would remain range bound thus short selling an out of the money option could generate a return of option premium at expiration. While long straddle is expecting the volatility would be more volatile, either increases or decreases, which doesn't agree with the remaing range bound expectation.	?minimum-variance hedge 	
 1.77154195
 20	8	"Statement 1 is incorrect. Economic balance sheets also consider present value of future comsumption and other future cash flow in and out.
 Statement 2 is correct. Human capital is the future earnings dicounted to the present. It is directly linked with financial assets as it can be accumulated in financial assets."	Colin's income is more stock-like and more volatile as the job is a commidities trader at a startup, while Robyn's income is more bond-like and less volatile as the job is in high demand. When constructing portfolio, they could allocate a more balanced one between equity and fixed income to even out the volatility of the couple.	At a younger age, their human capital is much higher and thus need a higher life insurance policy. As 70 year old, their human capital decreases significantly and has limited needs of life insurance.	"Immediate fixed annuties are better. Inlation rate. Interest rates have peaked signaling inflation rate will decrease in the near future. Fixed annuities have more value when inlation rate is decreasing compared to variable annuity.
